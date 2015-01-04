@@ -1,0 +1,14 @@
+a[href^="mailto:"]:before { content: "\2709"; }
+.phoneNumb:before             { content: "\2706"; }
+
+
+
+<p>
+  <a href="mailto:chriscoyier@gmail.com">
+    chriscoyier@gmail.com
+  </a>
+</p>
+
+<p class="phoneNumb">
+    555-555-5555
+</p>
