@@ -1,0 +1,7 @@
+/* Position relative keeps the space for the original div*/
+
+#div1 {
+ position:relative;
+ top:10px;
+ left:-50px;
+}
