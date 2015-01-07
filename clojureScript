@@ -1,0 +1,2 @@
+(ns nodehello
+  (:require [cljs.nodejs :as nodejs]))
